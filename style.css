@@ -1,0 +1,26 @@
+body {
+  background-color: lightgray;
+  font-family: 'Verdana', 'Times New Roman', sans-serif;
+}
+
+.heading,
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.description {
+  color: chocolate;
+}
+
+.ingredients {
+  color: lightcoral
+}
+
+.steps {
+  color: lightseagreen
+}
